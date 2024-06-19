@@ -16,9 +16,7 @@ BLANC = (255, 255, 255)
 NOIR = (0, 0, 0)
 GRIS = (50, 50, 50)
 
-####################################
-# Fonctions exécutées au lancement #
-####################################
+
 def setup():
     size(LARGEUR, HAUTEUR)
     
